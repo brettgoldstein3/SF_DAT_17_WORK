@@ -5,7 +5,7 @@
 Fraternity Email Analysis
 * Problem Statement: fraternities exhibit some pretty unusual linguistic phenomena that characterize this often satyrized subset of american culture. 
 * Data: I have been on my fraternity's list serve for 6 years, and have access to every email that has been sent to the fraternity at large during that time (which is a lot). I need a way to extract the data from gmail without admin access (no formal Google data dump - need a hack).
-* Output: I hope to produce a analysis of the evolution of various linguistic memes in the fraternity over this time and draw a parallel to computational linguistics literature. On the ligher side of things, I could also produce a "Frat Translation App" or "Frat Autocorrect".
+* Output: I hope to produce a analysis of the evolution of various linguistic memes in the fraternity over this time and draw a parallel to computational linguistics literature. On the lighter side of things, I could also produce a "Frat Translation App" or "Frat Autocorrect".
 
 Hip Hop Lyric Analysis
 * same as above project but using hip hop lyric corpus
