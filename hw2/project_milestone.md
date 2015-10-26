@@ -22,25 +22,33 @@ Will limit scope to download_country = USA and store = iOS.
 
 ## Presentation
 Problem statement in VC
+
 Objective and Abstract
+
 App Annie overview
+
 Data points utilized
+
 Execution methodology
 * Exported App Annie data from Dreml table available to Google internally
 * Included only US downloads/store charts and the iOS apps
 * [ what libraries I used ]
 * [ how I trained the model ]
 * [ how I evaluated results ]
+
 Results
 * Technical review of results, statistical significance, etc.
 * How confident are we in the model?
+
 Discussion
 * What features are most important to tell if an app is going to make it into the top 10? Graph those for top 
 * Predictions: Identify a few apps to make it into the top 10 within n weeks. If applicable, discuss accuracy in report.
+
 Next steps
 * Further research around why being in the top 10 is significant - suggest data science technique to address this question
 * Discuss ways to refine model - what other data points are relevant to add? Why?
 * Deeper dive into app categories. Do certain things work better in certain categories? Are some categories easier to predict?
+
 Appendix: Other attempts at this problem
 * [Finding Hot Startups with Twitter Data](https://www.cbinsights.com/blog/trending-startups-twitter/?utm_source=CB+Insights+Newsletter&utm_campaign=73677e380e-edit_10_18_2015&utm_medium=email&utm_term=0_9dc0513989-73677e380e-86555729&goal=0_9dc0513989-73677e380e-86555729)
 * [Quantitative VC](http://techcrunch.com/2013/06/01/the-quantitative-vc/)
